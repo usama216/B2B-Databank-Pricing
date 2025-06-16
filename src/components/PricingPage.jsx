@@ -16,7 +16,7 @@ const PricingPage = () => {
   );
 
   return (
-    <div className="container mx-auto px-24">
+    <div className="container  px-10 lg:mx-auto lg:px-24">
       <h1 className=" text-center text-3xl font-normal md:mt-6 md:text-4xl md:font-medium lg:text-6xl lg:font-bold">
    Simple, fair and transparent Pricing
       </h1>
